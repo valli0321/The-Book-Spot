@@ -1,6 +1,6 @@
 # The Book Spot 
 
-The Book Spot is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+The Book Spot is a fully responsive ecommerce website built using HTML, CSS, and JavaScript to sell books.
 
 ![s1](https://user-images.githubusercontent.com/91771548/180046637-a4ed8628-01cc-4a1f-9aa0-7cde41b055fc.png)
 
